@@ -1,0 +1,19 @@
+# Dataset descargado de Kaggle — muy pesado para git (1.9 GB)
+# Ejecuta la celda de descarga del notebook para regenerarlo
+dataset/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Variables de entorno
+.env
