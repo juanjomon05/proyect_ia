@@ -12,8 +12,6 @@ Sistema de clasificación de imágenes de autos usando **Transfer Learning con E
 
 ## Demo
 
-![Interfaz Gradio](https://i.imgur.com/placeholder.png)
-
 La interfaz permite subir cualquier foto de un carro y obtiene:
 - Categoría de precio estimada
 - Porcentaje de confianza por clase
@@ -49,25 +47,13 @@ pip install gradio
 
 ## Uso
 
-### Opción A — Solo usar la interfaz (recomendado)
-
 El modelo ya está entrenado e incluido (`car_classifier.pth`). Solo se puede ejecutar la ultima celda y se ejecutara la ventana del programa
 
 ```
 http://127.0.0.1:7860
 ```
 
-Sube una foto → haz clic en **Clasificar carro** → el resultado aparece con el mapa de atención.
-
-### Opción B — Reentrenar el modelo desde cero
-
-Si quieres reentrenar necesitas descargar el dataset de Kaggle:
-
-1. Descarga tu `kaggle.json` desde [kaggle.com/settings → API](https://www.kaggle.com/settings) y colócalo en:
-   - **Windows:** `C:\Users\<tu_usuario>\.kaggle\kaggle.json`
-   - **Linux/Mac:** `~/.kaggle/kaggle.json`
-
-2. Ejecuta todas las celdas del notebook en orden
+Sube una foto, clic en **Clasificar carro** y el resultado aparece con el mapa de atención.
 
 ## Estructura del proyecto
 
@@ -95,7 +81,7 @@ La interfaz visual de este proyecto fue desarrollada con asistencia de IA:
 
 ## Dataset
 
-**Stanford Cars Dataset** — [jutrera/stanford-car-dataset-by-classes-folder](https://www.kaggle.com/datasets/jutrera/stanford-car-dataset-by-classes-folder)
+**Stanford Cars Dataset** 
 
 196 modelos de autos reorganizados en 3 categorías:
 
