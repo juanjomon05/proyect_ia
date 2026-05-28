@@ -86,6 +86,12 @@ proyect_ia/
 │       └── lujo/
 └── README.md
 ```
+## Uso de Inteligencia Artificial
+
+La interfaz visual de este proyecto fue desarrollada con asistencia de IA:
+
+- **Diseño de la interfaz Gradio** (colores, layout, tarjetas de resultado, barras de confianza) — generado con apoyo de Claude (Anthropic)
+- **Integración de Grad-CAM** en la interfaz — implementado con apoyo de Claude (Anthropic)
 
 ## Dataset
 
