@@ -1,7 +1,7 @@
 # Clasificador de Carros por Precio
 ### Proyecto de Inteligencia Artificial
 
-**Integrantes:** Juan Jose Montoya · isaace11  
+**Integrantes:** Juan Jose Montoya · Isabel Acevedo · Miguel Aguilar
 **Fecha:** Mayo 2026  
 **Repositorio:** https://github.com/juanjomon05/proyect_ia
 
