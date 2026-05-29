@@ -89,3 +89,7 @@ La interfaz visual de este proyecto fue desarrollada con asistencia de IA:
 |-------|-----------|------------|------|-------|
 | Train | 4,111 | 2,748 | 1,285 | 8,144 |
 | Test | 4,063 | 2,710 | 1,268 | 8,041 |
+
+## Video Explicativo 
+
+https://www.youtube.com/watch?v=p-z-aTSjG-k
