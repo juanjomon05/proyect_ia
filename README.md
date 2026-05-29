@@ -2,6 +2,11 @@
 
 Sistema de clasificación de imágenes de autos usando **Transfer Learning con EfficientNet-B0**. Dado una foto de un carro, el modelo estima su rango de precio y muestra qué zonas de la imagen influyeron en la decisión (Grad-CAM).
 
+## Integrantes
+
+-Juan Jose Montoya
+-Miguel Angel Aguilar
+-Isabel Acevedo
 ## Categorías
 
 | Categoría | Rango de precio | Ejemplos |
